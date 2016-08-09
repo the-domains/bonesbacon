@@ -1,4 +1,3 @@
-layout_spectrum: 0.06036640866659582
 typography_spectrum: 0.3968382370658219
 color:
   brandStrength: 0.9575538104400039
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.06036640866659582
 name: Bonesbacon
 title: Whaddup
+description: We're here to gangstarr shit
