@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T05:19:28.929Z'
+datePublished: '2016-08-09T05:26:07.845Z'
 sourcePath: _posts/2016-04-16-brooklyns-luft-coffee.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/luft-coffee-brooklyn'
@@ -17,14 +17,11 @@ keywords:
   - baristas
 related: []
 author: []
-dateModified: '2016-08-09T05:19:28.143Z'
+via: {}
+dateModified: '2016-08-09T05:26:07.196Z'
 title: Brooklyn's Luft Coffee
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
+publisher: {}
 description: >-
   About five years ago, Blair Smith's twice-a-day coffee pitstop at NYC's Kaffe
   1668 led to him striking up a friendship with barista Justin Rodriguez behind
@@ -33,10 +30,9 @@ description: >-
   remembers Sutula.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Brooklyn's Luft Coffee</h1><p>About five years ago, Blair Smith's twice-a-day coffee pitstop at NYC's Kaffe 1668 led to him striking up a friendship with barista Justin Rodriguez behind the counter. Smith then met mobile developer Aaron Sutula in a coffee seminar held by an espresso machine company. "I took a day off of work to go," remembers Sutula.</p><img src="http://assets.coolhunting.com/coolhunting/2016/03/24/large_luft-coffee-lot-radio-kiosk.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4cab8b5548c02525515410d6e85dd5580051ec9.jpg" /><h1>Brooklyn's Luft Coffee</h1><p>About five years ago, Blair Smith's twice-a-day coffee pitstop at NYC's Kaffe 1668 led to him striking up a friendship with barista Justin Rodriguez behind the counter. Smith then met mobile developer Aaron Sutula in a coffee seminar held by an espresso machine company. "I took a day off of work to go," remembers Sutula.</p></article>
