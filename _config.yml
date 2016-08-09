@@ -1,0 +1,14 @@
+layout_spectrum: 0.06036640866659582
+typography_spectrum: 0.3968382370658219
+color:
+  brandStrength: 0.9575538104400039
+  lightness: 0.7365530743263662
+  saturation: 0.1111519371625036
+  rhythmicContrast: 0.14734586142003536
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Bonesbacon
